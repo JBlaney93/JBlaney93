@@ -12,7 +12,6 @@ Throughout this course I have gained experience across the full stack and compet
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 
-https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg
 
 
 
