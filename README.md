@@ -14,11 +14,6 @@ Throughout this course I have gained experience across the full stack and compet
 
 
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-
-
 
 
 <!--
