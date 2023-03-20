@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is James Blaney and I am a software developer based in sunny Glasgow, Scotland.
+I have recently graduated from the Professional Software Development Course at CodeClan in Glasgow.
+Throughout this course I have gained experience across the full stack and competency in multiple languages:
+<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" /> 	
+
+
+
 
 <!--
 **JBlaney93/JBlaney93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
