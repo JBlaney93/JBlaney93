@@ -17,7 +17,7 @@
 
 <div>
 - 🌱 I’m currently learning Next.js and TypeScript! <br>
-- 💬 I am looking for a developer role in Scotland at the moment, reach out to me at jamesblaney93@gmail.com <br>
+- 💬 I am looking for a developer role in Scotland at the moment, reach out to me at jamesblaney93@gmail.com if you would like to talk <br>
 </div>
 
 
