@@ -1,8 +1,8 @@
 <h2>Hello! 👋</h2>
 
-<p>My name is James Blaney and I am a software developer based in sunny Scotland.
-I have recently graduated from the Professional Software Development Course at CodeClan in Glasgow.
-Throughout this course I have gained experience across the full stack and competency in multiple languages:</p>
+<p>My name is James Blaney and I am a software developer based in sunny Scotland.</p>
+<p>I have recently graduated from the Professional Software Development Course at CodeClan in Glasgow.</p>
+<p>Throughout this course I have gained experience across the full stack and competency in multiple languages:</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -12,7 +12,10 @@ Throughout this course I have gained experience across the full stack and compet
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 
-
+<div>
+- 🌱 I’m currently learning Next.js and TypeScript!  
+- 💬 I am looking for a developer role in Scotland at the moment, reach out to me at jamesblaney93@gmail.com
+</div>
 
 
 
