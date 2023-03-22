@@ -1,4 +1,4 @@
-### Hello! 👋
+<h2>Hello!</h2> 👋
 
 My name is James Blaney and I am a software developer based in sunny Glasgow, Scotland.<br>
 I have recently graduated from the Professional Software Development Course at CodeClan in Glasgow.<br>
