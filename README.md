@@ -1,8 +1,8 @@
-<h2>Hello!</h2> 👋
+<h2>Hello! 👋</h2>
 
-My name is James Blaney and I am a software developer based in sunny Glasgow, Scotland.<br>
-I have recently graduated from the Professional Software Development Course at CodeClan in Glasgow.<br>
-Throughout this course I have gained experience across the full stack and competency in multiple languages:<br>
+<p>My name is James Blaney and I am a software developer based in sunny Scotland.
+I have recently graduated from the Professional Software Development Course at CodeClan in Glasgow.
+Throughout this course I have gained experience across the full stack and competency in multiple languages:</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
