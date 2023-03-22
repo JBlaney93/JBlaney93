@@ -10,11 +10,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/python-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 
+<br>
+
 <div>
-- 🌱 I’m currently learning Next.js and TypeScript!  
-- 💬 I am looking for a developer role in Scotland at the moment, reach out to me at jamesblaney93@gmail.com
+- 🌱 I’m currently learning Next.js and TypeScript! <br>
+- 💬 I am looking for a developer role in Scotland at the moment, reach out to me at jamesblaney93@gmail.com <br>
 </div>
 
 
