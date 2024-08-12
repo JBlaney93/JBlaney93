@@ -1,7 +1,7 @@
 <h2>Hello! 👋</h2>
 
 <p>My name is James Blaney and I am a software developer based in sunny Scotland.</p>
-<p>I am a full-stack software developer working with React, TypeScript, Node and Express.</p>
+<p>I am a full-stack software developer working with React, TypeScript, Node, Express & Postgres.</p>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -17,7 +17,7 @@
 
 <div>
 - 🌱 I’m currently learning Next.js and Tailwind <br>
-- 💬 I am currently working on an application for martial arts competitors to find matches. <br>
+- 💬 I am currently working Combat Calendar, a schedule of upcoming combat sports events. <br>
 </div>
 
 
