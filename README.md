@@ -15,7 +15,7 @@
 
 <div>
 - 🌱 I’m currently learning Next.js and Tailwind <br>
-- 💬 I am currently working Combat Calendar, a schedule of upcoming combat sports events. <br>
+- 💬 I am currently working on Combat Calendar, a schedule of upcoming combat sports events. <br>
 </div>
 
 
