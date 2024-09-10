@@ -14,7 +14,7 @@
 <br>
 
 <div>
-- 🌱 I’m currently learning Next.js and Tailwind <br>
+- 🌱 I’m currently learning web scraping using Python. <br>
 - 💬 I am currently working on Combat Calendar, a schedule of upcoming combat sports events. <br>
 </div>
 
